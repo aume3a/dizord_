@@ -14,9 +14,7 @@ Why Dizord?
 
 Many Discord server lists are dominated by the same large communities. Dizord focuses on helping users discover both popular and growing communities across a wide range of interests.
 
-Website
-
-https://dizord.com
+Website: https://dizord.com
 
 Categories
 
